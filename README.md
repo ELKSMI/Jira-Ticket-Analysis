@@ -23,7 +23,7 @@ I followed a structured data analysis workflow, from data cleaning and EDA to ad
 
 The root cause of the high unresolved rate was not poor team performance, but a specific **knowledge gap** related to one category of issues.
 
-![Evidence Chart](link_to_your_evidence_chart.png)  <!-- **IMPORTANT**: Upload your chart to the repo and link it here -->
+![Evidence Chart](https://github.com/ELKSMI/Jira-Ticket-Analysis/blob/main/evidence_chart.png)  <!-- **IMPORTANT**: Upload your chart to the repo and link it here -->
 
 As the chart clearly shows:
 - ✅ **High Success Rate:** The team is highly effective at resolving most technical issues, including `Login Issues`, `Password Resets`, and `Data Maintenance`.
