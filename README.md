@@ -44,4 +44,4 @@ Based on this core finding, I proposed a 3-step action plan to address the bottl
 Thank you for reviewing my project! I am passionate about using data to solve real-world business problems.
 
 *   **LinkedIn:** (https://www.linkedin.com/in/aymane-el-kasmi/)
-*   **Full Notebook:** You can view the complete Python code and step-by-step analysis in the [Jira_Ticket_Analysis.ipynb](link_to_your_notebook_file.ipynb) file in this repository.
+*   **Full Notebook:** You can view the complete Python code and step-by-step analysis in the [Jira_Ticket_Analysis.ipynb](https://github.com/ELKSMI/Jira-Ticket-Analysis/blob/main/Jira_Ticket_Analysis.ipynb) file in this repository.
