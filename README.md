@@ -1,6 +1,6 @@
 # Optimizing Support Workflow: A Data-Driven Analysis of Jira Tickets
 
-![Jira Project Cover](link_to_your_cover_image.png)  <!-- Optional: Add a nice cover image -->
+![Jira Project Cover](https://github.com/ELKSMI/Jira-Ticket-Analysis/blob/main/cover.png)  <!-- Optional: Add a nice cover image -->
 
 ## 📄 Project Overview
 This project performs an in-depth analysis of a production support Jira ticket dataset. The primary objective is to move beyond high-level metrics and use Natural Language Processing (NLP) to understand the *content* of the tickets. By clustering tickets into thematic groups, we can identify hidden bottlenecks and provide targeted, strategic recommendations to improve the support team's resolution rate and overall efficiency.
